@@ -1,6 +1,6 @@
 public class Sample
 {
-	public static void main(Strings arg[])
+	public static void main(String args[])
 	{
 		System.out.print("Neha Gayathri");
 	}
